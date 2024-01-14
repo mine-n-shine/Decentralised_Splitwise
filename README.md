@@ -25,4 +25,9 @@ The owner can call the PaymentSettled function at any point of time and it will 
 
 
 
+Team Contributions : 
+Aniruddh & Akshat : complete backend of the project
+krishna & Aditya : front end of the project
+
+Contract Transaction address : 0x028917F63Ba670c2060B79782F72d678B1d9d678
 
